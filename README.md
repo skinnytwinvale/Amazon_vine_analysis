@@ -20,14 +20,14 @@ The dataset is so big we need to filter the recorded 3 million reviews to focus 
 
 Paid Vine Program
 
-33 total reviews
-15 5-star reviews
-45.5% of vine reviews were 5-star
-Unpaid reviews
+-33 total reviews
+-15 5-star reviews
+-45.5% of vine reviews were 5-star
+-Unpaid reviews
 
-45,388 total reviews
-23,733 5-star reviews
-52.3% of unpaid reviews were 5-star
+-45,388 total reviews
+-23,733 5-star reviews
+-52.3% of unpaid reviews were 5-star
 
 **2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
