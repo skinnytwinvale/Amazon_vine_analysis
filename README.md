@@ -7,7 +7,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
  
 ## Deliverables: 
 This new assignment consists of two technical analysis deliverables and a written report. 
-
+ 
 1. ***Deliverable 1:*** Perform ETL on Amazon Product Reviews
 2. ***Deliverable 2:*** Determine Bias of Vine Reviews
 3. ***Deliverable 3:*** A Written Report on the Analysis [README.md](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis)
